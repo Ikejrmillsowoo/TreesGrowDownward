@@ -12,7 +12,7 @@ Here's a quick visual representation of this type of binary tree:
 
 Take a look at Node.java, it's a very simple container to hold our Integer object.
 
-Now, what operations do yo need to implement in TreeOneZero.java?
+Now, what operations do you need to implement in TreeOneZero.java?
 
 ## Some Common Operations
 
